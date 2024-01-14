@@ -1,0 +1,36 @@
+---
+title: "First_Quarto_File"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+execute:
+  keep-md: true
+format:
+  html:
+    code-fold: true
+    code-line-numbers: true
+---
+
+#### What Does Happily Ever Look Like?
+
+https://pudding.cool/2023/10/romance-covers/
+
+
+This page shows how the covers of romance novels has changed over years, the interesting thing about this is that in the different sections of this essay it shows the actual covers of novels with the corresponding information for each year. The page as a whole was very interesting to look at but the functionality of the website as a whole left me confused and trying to figure out how to find information about each year with out scrolling forever.
+
+
+#### Examining Back to Back Plays by Gender, Race, and Sexual Orientation
+
+https://pudding.cool/2023/05/country-radio/
+
+This page was very appealing to look at. The colors were very intentional and easy on the eyes. The data was presented in a way that was fun at first then as you went on in the article it began to look like a real article and the data was represented and explained in a way that made sense. My only notes are that the title is a bit long and the colors could be changed slightly to better bring the point across, the blue kinda through me off but it made sense the further down in the article I went.
+
+
+#### What were the death tolls from pandemics in history?
+
+https://ourworldindata.org/historical-pandemics
+
+This page wasn't as appealing to look at, but the data was presented in motion form which allows the audience to see what the author wants to show which is how the death toll from different pandemics has changed over years and things that have impacted this toll, which was the perfect way to see this data. The keys also made it easy to decipher the context of the data.My one note is that there is a lot of words so if the data was on one side of the data could have made it easier to understand what the author was trying to explain. With the visual and the data next to each other would allow the reader to not have to go back and forth between the two.
+
+```{r}
+plot(1:20)
+```
+
